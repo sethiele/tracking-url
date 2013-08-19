@@ -16,7 +16,7 @@ function build_tracking_url($utm_source, $post){
 
 function build_output(){
   global $post;
-  $sources = array( 'facebook', 'googleplus');
+  $sources = array( 'facebook', 'googleplus', 'twitter');
 
   $output = "<div id=\"strackingurl\"><table style=\"width:100%\">";
   foreach ($sources as $key => $source) {
