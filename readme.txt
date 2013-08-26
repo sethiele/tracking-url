@@ -1,13 +1,13 @@
 === Tracking URL ===
 Contributors: sebat
-Tags: tracking, google analytics, marketing
+Tags: tracking, google analytics, marketing, sharing, social media
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: trunk
+Stable tag: trunk 
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds Tracking URLs for every post. For easy sharing in the web and tracking.
+Gives you the posibility to share links with Google Analytics tracking Code.
 
 == Description ==
 
@@ -16,7 +16,16 @@ But it was to many work for me to create this links with all the parameters. So 
 
 You can add as many sources (Pages where to share your links) as you like by a admin page. The Links will show to the writer at the live side of your page.
 
-You can add wishes or report bugs on [github](https://github.com/sethiele/tracking-url).
+After sharing the links in the internet you can track the clicks on Google Analytics
+
+= Support and Contribution =
+
+The source code of tis plugin is public. You cann add [wisches](https://github.com/sethiele/tracking-url/issues) or code submittions on [github](https://github.com/sethiele/tracking-url).
+
+= Author =
+* [Google+](https://plus.google.com/102805470505744774775 "Google+")
+* [Twitter](https://twitter.com/sebat)
+* [Website](http://www.sebastian-thiele.net "Website (german)")
 
 == Installation ==
 
